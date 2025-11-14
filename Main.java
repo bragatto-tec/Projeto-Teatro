@@ -1,6 +1,3 @@
-//Guilherme Miyamoto Bragatto - 10736124
-//Pedro Henrique Lopes Sabainsk -10735777
-
 import java.util.Scanner;
 
 public class Main {

@@ -1,5 +1,3 @@
-//Guilherme Miyamoto Bragatto - 10736124
-//Pedro Henrique Lopes Sabainsk -10735777
 public class Espetaculo {
     private String nome;
     private String data;
